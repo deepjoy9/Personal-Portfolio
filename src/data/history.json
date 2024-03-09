@@ -1,0 +1,15 @@
+[
+  {
+    "role": "Associate Engineer",
+    "organisation": "Nagarro",
+    "startDate": "August, 2022",
+    "endDate": "November, 2023",
+    "experiences": [
+      "Enhanced user interface interactions",
+      "Developed custom UI components",
+      "Integrated third-party APIs",
+      "Implemented performance optimizations"
+    ],
+    "imageSrc": "history/nagarro.png"
+  }
+]
