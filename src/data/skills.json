@@ -8,16 +8,31 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwindcss.png"
+  },
+  {
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
-
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/expressjs.png"
+  },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
   }
 ]
