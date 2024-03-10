@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "CineSuggest",
+    "imageSrc": "projects/cinesuggest.png",
+    "description": "Dynamic Movie Recommendation Platform with Enhanced User Experience",
+    "skills": ["React", "Tailwind CSS", "Redux-Toolkit", "Firebase"],
+    "demo": "https://netflix-app-drab-alpha.vercel.app",
+    "source": "https://github.com/deepjoy9/Netflix-App"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "MealMaster",
+    "imageSrc": "projects/mealmaster.png",
+    "description": "Streamlined Food Ordering Platform with Enhanced User Experience",
+    "skills": ["React", "Tailwind CSS", "Redux-Toolkit"],
+    "demo": "https://meal-master.vercel.app",
+    "source": "https://github.com/deepjoy9/Food-Ordering-App"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Youtube Clone (UI)",
+    "imageSrc": "projects/youtubeclone.png",
+    "description": "Immersive Video Browsing Experience with Dynamic Features",
+    "skills": ["React", "Tailwind CSS", "Redux-Toolkit"],
+    "demo": "https://youtube-project-pi.vercel.app",
+    "source": "https://github.com/deepjoy9/Youtube-Project"
   }
 ]
