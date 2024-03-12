@@ -22,5 +22,13 @@
     "skills": ["React", "Tailwind CSS", "Redux-Toolkit"],
     "demo": "https://youtube-project-pi.vercel.app",
     "source": "https://github.com/deepjoy9/Youtube-Project"
+  },
+  {
+    "title": "Dev Diary",
+    "imageSrc": "projects/mern.webp",
+    "description": "Dynamic Fullstack Blogging Platform for Seamless Content Publishing",
+    "skills": ["React", "MongoDB", "Express.js", "Node.js"],
+    "demo": "https://github.com/deepjoy9/Mern-Blog-App",
+    "source": "https://github.com/deepjoy9/Mern-Blog-App"
   }
 ]
