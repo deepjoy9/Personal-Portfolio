@@ -28,7 +28,7 @@
     "imageSrc": "projects/mern.webp",
     "description": "Dynamic Fullstack Blogging Platform for Seamless Content Publishing",
     "skills": ["React", "MongoDB", "Express.js", "Node.js"],
-    "demo": "https://github.com/deepjoy9/Mern-Blog-App",
-    "source": "https://github.com/deepjoy9/Mern-Blog-App"
+    "demo": "https://devdiary-blog.vercel.app",
+    "source": "https://github.com/deepjoy9/Mern-Blog-App-V2"
   }
 ]
