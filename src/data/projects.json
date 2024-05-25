@@ -30,5 +30,13 @@
     "skills": ["React", "MongoDB", "Express.js", "Node.js"],
     "demo": "https://devdiary-blog.vercel.app",
     "source": "https://github.com/deepjoy9/Mern-Blog-App-V2"
+  },
+  {
+    "title": "Bill Splitter",
+    "imageSrc": "projects/bill-splitting-app.png",
+    "description": "Effortless Management and Splitting of Bills Among Friends and Groups",
+    "skills": ["React", "React Hook Form", "Zod"],
+    "demo": "https://github.com/deepjoy9/Bill-Splitting-App",
+    "source": "https://github.com/deepjoy9/Bill-Splitting-App"
   }
 ]
