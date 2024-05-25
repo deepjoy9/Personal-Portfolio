@@ -38,5 +38,19 @@
     "skills": ["React", "React Hook Form", "Zod"],
     "demo": "https://github.com/deepjoy9/Bill-Splitting-App",
     "source": "https://github.com/deepjoy9/Bill-Splitting-App"
+  },
+  {
+    "title": "Task Manager",
+    "imageSrc": "projects/task-manager.png",
+    "description": "Efficient Task Management with Intuitive Drag-and-Drop Interface",
+    "skills": [
+      "React",
+      "react-beautiful-dnd",
+      "react-feather",
+      "react-tiny-popover",
+      "Tailwind CSS"
+    ],
+    "demo": "https://github.com/deepjoy9/Task-Manager",
+    "source": "https://github.com/deepjoy9/Task-Manager"
   }
 ]
