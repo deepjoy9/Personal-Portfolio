@@ -1,27 +1,11 @@
 [
   {
-    "title": "CineSuggest",
-    "imageSrc": "projects/cinesuggest.png",
-    "description": "Dynamic Movie Recommendation Platform with Enhanced User Experience",
-    "skills": ["React", "Tailwind CSS", "Redux-Toolkit", "Firebase"],
-    "demo": "https://netflix-app-drab-alpha.vercel.app",
-    "source": "https://github.com/deepjoy9/Netflix-App"
-  },
-  {
-    "title": "MealMaster",
-    "imageSrc": "projects/mealmaster.png",
-    "description": "Streamlined Food Ordering Platform with Enhanced User Experience",
-    "skills": ["React", "Tailwind CSS", "Redux-Toolkit"],
-    "demo": "https://meal-master.vercel.app",
-    "source": "https://github.com/deepjoy9/Food-Ordering-App"
-  },
-  {
-    "title": "Youtube Clone (UI)",
-    "imageSrc": "projects/youtubeclone.png",
-    "description": "Immersive Video Browsing Experience with Dynamic Features",
-    "skills": ["React", "Tailwind CSS", "Redux-Toolkit"],
-    "demo": "https://youtube-project-pi.vercel.app",
-    "source": "https://github.com/deepjoy9/Youtube-Project"
+    "title": "Bill Splitter",
+    "imageSrc": "projects/bill-splitting-app.png",
+    "description": "Effortless Management and Splitting of Bills Among Friends and Groups",
+    "skills": ["React", "React Hook Form", "Zod"],
+    "demo": "https://github.com/deepjoy9/Bill-Splitting-App",
+    "source": "https://github.com/deepjoy9/Bill-Splitting-App"
   },
   {
     "title": "Dev Diary",
@@ -32,12 +16,12 @@
     "source": "https://github.com/deepjoy9/Mern-Blog-App-V2"
   },
   {
-    "title": "Bill Splitter",
-    "imageSrc": "projects/bill-splitting-app.png",
-    "description": "Effortless Management and Splitting of Bills Among Friends and Groups",
-    "skills": ["React", "React Hook Form", "Zod"],
-    "demo": "https://github.com/deepjoy9/Bill-Splitting-App",
-    "source": "https://github.com/deepjoy9/Bill-Splitting-App"
+    "title": "CineSuggest",
+    "imageSrc": "projects/cinesuggest.png",
+    "description": "Dynamic Movie Recommendation Platform with Enhanced User Experience",
+    "skills": ["React", "Tailwind CSS", "Redux-Toolkit", "Firebase"],
+    "demo": "https://cine-suggest.vercel.app",
+    "source": "https://github.com/deepjoy9/Netflix-App"
   },
   {
     "title": "Task Manager",
@@ -50,7 +34,23 @@
       "react-tiny-popover",
       "Tailwind CSS"
     ],
-    "demo": "https://github.com/deepjoy9/Task-Manager",
+    "demo": "https://taskshift.vercel.app",
     "source": "https://github.com/deepjoy9/Task-Manager"
+  },
+  {
+    "title": "Youtube Clone (UI)",
+    "imageSrc": "projects/youtubeclone.png",
+    "description": "Immersive Video Browsing Experience with Dynamic Features",
+    "skills": ["React", "Tailwind CSS", "Redux-Toolkit"],
+    "demo": "https://youtube-project-pi.vercel.app",
+    "source": "https://github.com/deepjoy9/Youtube-Project"
+  },
+  {
+    "title": "MealMaster",
+    "imageSrc": "projects/mealmaster.png",
+    "description": "Streamlined Food Ordering Platform with Enhanced User Experience",
+    "skills": ["React", "Tailwind CSS", "Redux-Toolkit"],
+    "demo": "https://meal-master.vercel.app",
+    "source": "https://github.com/deepjoy9/Food-Ordering-App"
   }
 ]
